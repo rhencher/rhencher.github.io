@@ -1,3 +1,12 @@
+![NCSU](https://user-images.githubusercontent.com/58576325/170496026-728fc0a9-91a7-48a7-9ae6-c702b06f0e5b.png)
+
+This post addresses the following prompts:  
+    - What do you think being a data scientist is about?  
+    - What do you see as the major duties and/or knowledge areas?  
+    - What differences/similarities do you see between data scientists and statisticians?  
+    - How do you view yourself in relation to these two areas?
+
+
 ## What does is mean to be a data scientist?
 ### How does this profession relate to similar fields?
 
