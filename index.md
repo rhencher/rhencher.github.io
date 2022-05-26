@@ -1,17 +1,16 @@
-![NCSU](https://user-images.githubusercontent.com/58576325/170497696-2c37bd5f-330b-4ebf-b026-4631fbfe65ff.png)
-Rachel Hencher  
-    NCSU Graduate Student  
-    Master's of Statistics
+**Rachel Hencher**  
+    **NCSU Graduate Student**  
+    **Master's of Statistics**  
+![NCSU](https://user-images.githubusercontent.com/58576325/170499506-b55ce9c9-6649-4968-859b-b86d864c0594.png)
 
-This post addresses the following prompts:  
-    - What do you think being a data scientist is about?  
+*This post addresses the following prompts:*  
+    - *What do you think being a data scientist is about?  
     - What do you see as the major duties and/or knowledge areas?  
     - What differences/similarities do you see between data scientists and statisticians?  
-    - How do you view yourself in relation to these two areas?
+    - How do you view yourself in relation to these two areas?*
 
 
-## What does is mean to be a data scientist?
-### How does this profession relate to similar fields?
+### What does is mean to be a data scientist?
 
 Unwrapping what it is that a data scientist does can be confusing when comparing it to other careers, such as a data analyst, a statistician, or a machine learning expert. A data scientist is really a combination of these *three* things because they need to understand how to run analytics, how to interpret their findings, & how to apply those findings to help answer a question or solve a problem for a business or client. It's important for a data scientist to be more than just a good programmer, but someone who understands statistics and how to apply that knowledge to the real-world scenario at hand as well.
 
