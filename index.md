@@ -1,4 +1,7 @@
-Unwrapping what it is that a data scientist does can be confusing when comparing it to other careers, such as a data analyst, a statistician, or a machine learning expert. A data scientist is really a combination of these three things because they need to understand how to run analytics, how to interpret their findings, & how to apply those findings to help answer a question or solve a problem for a business or client. It's important for a data scientist to be more than just a good programmer, but someone who understands statistics and how to apply that knowledge to the real-world scenario at hand as well.
+## What does is mean to be a data scientist?
+### How does this profession relate to similar fields?
+
+Unwrapping what it is that a data scientist does can be confusing when comparing it to other careers, such as a data analyst, a statistician, or a machine learning expert. A data scientist is really a combination of these *three* things because they need to understand how to run analytics, how to interpret their findings, & how to apply those findings to help answer a question or solve a problem for a business or client. It's important for a data scientist to be more than just a good programmer, but someone who understands statistics and how to apply that knowledge to the real-world scenario at hand as well.
 
 The job of a data scientist and statistician overlap in many respects; however, the primary difference between them is that a data scientist more often applies their knowledge of statistics using machine learning and programming skills.
 
