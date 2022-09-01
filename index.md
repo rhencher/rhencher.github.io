@@ -20,7 +20,7 @@ The job of a data scientist and statistician overlap in many respects; however, 
 Personally, I find myself much more inclined towards a profession as a data scientist because I find work particularly rewarding when it benefits society in some way. The ability to connect with a business or client and potentially help improve their business model would be of great interest to me. I have found the courses I have taken throughout the NCSU Master's of Statistics program to prepare me to pursue either of these professions.
 
 
-**If you'd like to learn more about this topic, the following articles may be of interest:**
+**If you'd like to learn more about this topic, the following articles may be of interest:**  
 [Data Scientists Versus Statisticians](https://medium.com/odscjournal/data-scientists-versus-statisticians-8ea146b7a47f)  
 [Machine Learning Engineer vs. Data Scientist](https://www.springboard.com/blog/data-science/machine-learning-engineer-vs-data-scientist/)  
 [Data Science vs. Data Analytics vs. Machine Learning: Expert Talk](https://www.simplilearn.com/data-science-vs-data-analytics-vs-machine-learning-article)  
