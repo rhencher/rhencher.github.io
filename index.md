@@ -1,6 +1,6 @@
 **Rachel Hencher**  
     **NCSU Graduate Student**  
-    **Master's of Statistics**
+    **Master's of Statistics**  
     **rfhenche@ncsu.edu**
 ![NCSU](https://user-images.githubusercontent.com/58576325/170499506-b55ce9c9-6649-4968-859b-b86d864c0594.png)
 
@@ -21,4 +21,7 @@ Personally, I find myself much more inclined towards a profession as a data scie
 
 
 **If you'd like to learn more about this topic, the following articles may be of interest:**
-[Data Scientists Versus Statisticians]([https://readr.tidyverse.org](https://medium.com/odscjournal/data-scientists-versus-statisticians-8ea146b7a47f))
+[Data Scientists Versus Statisticians](https://medium.com/odscjournal/data-scientists-versus-statisticians-8ea146b7a47f)  
+[Machine Learning Engineer vs. Data Scientist](https://www.springboard.com/blog/data-science/machine-learning-engineer-vs-data-scientist/)  
+[Data Science vs. Data Analytics vs. Machine Learning: Expert Talk](https://www.simplilearn.com/data-science-vs-data-analytics-vs-machine-learning-article)  
+[This is the difference between statistics and data science](https://mixpanel.com/blog/this-is-the-difference-between-statistics-and-data-science/)
