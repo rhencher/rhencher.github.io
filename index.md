@@ -1,6 +1,7 @@
 **Rachel Hencher**  
     **NCSU Graduate Student**  
-    **Master's of Statistics**  
+    **Master's of Statistics**
+    **rfhenche@ncsu.edu**
 ![NCSU](https://user-images.githubusercontent.com/58576325/170499506-b55ce9c9-6649-4968-859b-b86d864c0594.png)
 
 *This post addresses the following prompts:*  
@@ -17,3 +18,7 @@ Unwrapping what it is that a data scientist does can be confusing when comparing
 The job of a data scientist and statistician overlap in many respects; however, the primary difference between them is that a data scientist more often applies their knowledge of statistics using machine learning and programming skills.
 
 Personally, I find myself much more inclined towards a profession as a data scientist because I find work particularly rewarding when it benefits society in some way. The ability to connect with a business or client and potentially help improve their business model would be of great interest to me. I have found the courses I have taken throughout the NCSU Master's of Statistics program to prepare me to pursue either of these professions.
+
+
+**If you'd like to learn more about this topic, the following articles may be of interest:**
+[Data Scientists Versus Statisticians]([https://readr.tidyverse.org](https://medium.com/odscjournal/data-scientists-versus-statisticians-8ea146b7a47f))
